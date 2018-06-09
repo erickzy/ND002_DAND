@@ -7,10 +7,10 @@ Udacity data analyst nano degree summary
 
 ## Project link
 
-[ND002_DAND_PROJECT1_Psychology-phenomenon](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology-phenomenon)
+[ND002_DAND_PROJECT1_Psychology-Phenomenon](https://github.com/erickzy/ND002_DA_PROJECT1_Psychology-phenomenon)
 
-[ND002_DAND_Project2_Data_Wrangler](https://github.com/erickzy/ND002_DAND_Project2_Data_Wrangler)
+[ND002_DAND_PROJECT2_Data_Wrangler](https://github.com/erickzy/ND002_DAND_Project2_Data_Wrangler)
 
-[ND002_DAND_EDA](https://github.com/erickzy/ND002_DAN_EDA)
+[ND002_DAND_PROJECT3_EDA](https://github.com/erickzy/ND002_DAN_EDA)
 
-[ND002_DAND_TABLEAU](https://github.com/erickzy/ND002_DAN_TABLEAU)
+[ND002_DAND_PROJECT4_TABLEAU](https://github.com/erickzy/ND002_DAN_TABLEAU)

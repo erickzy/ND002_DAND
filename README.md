@@ -13,4 +13,4 @@ Udacity data analyst nano degree summary
 
 [ND002_DAND_EDA](https://github.com/erickzy/ND002_DAN_EDA)
 
-[ND002_DAN_TABLEAU](https://github.com/erickzy/ND002_DAN_TABLEAU)
+[ND002_DAND_TABLEAU](https://github.com/erickzy/ND002_DAN_TABLEAU)
